@@ -1,3 +1,3 @@
-#Coffee Shop Management System
+# Coffee Shop Management System
 
-##Developed using PHP and Bootstrap
+## Developed using PHP and Bootstrap
